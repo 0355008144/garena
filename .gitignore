@@ -1,0 +1,3 @@
+git remote add origin https://github.com/0355008144/garena.git
+ git branch -M main 
+git push -u origin main
